@@ -1,0 +1,256 @@
+State,City Name,Type Of Weather,Lat,Long,Total Number Of Accidents  (UOM:Number),Possibility
+Andhra Pradesh,Vijaywada city,Foggy & Misty,16.5193,80.6305,38.666666666666664,Low
+Andhra Pradesh,Vijaywada city,Hail/Sleet,16.5193,80.6305,0.0,Low
+Andhra Pradesh,Vijaywada city,Others,16.5193,80.6305,19.333333333333332,Low
+Andhra Pradesh,Vijaywada city,Rainy,16.5193,80.6305,10.333333333333334,Low
+Andhra Pradesh,Vijaywada city,Sunny/Clear,16.5193,80.6305,1196.6666666666667,Medium
+Andhra Pradesh,Vishakhapatnam,Foggy & Misty,17.704052,83.297663,110.33333333333333,Medium
+Andhra Pradesh,Vishakhapatnam,Hail/Sleet,17.704052,83.297663,20.0,Medium
+Andhra Pradesh,Vishakhapatnam,Others,17.704052,83.297663,271.6666666666667,High
+Andhra Pradesh,Vishakhapatnam,Rainy,17.704052,83.297663,98.0,Medium
+Andhra Pradesh,Vishakhapatnam,Sunny/Clear,17.704052,83.297663,1436.6666666666667,Medium
+Bihar,Patna,Foggy & Misty,25.615379,85.101027,146.0,Medium
+Bihar,Patna,Hail/Sleet,25.615379,85.101027,0.0,Low
+Bihar,Patna,Others,25.615379,85.101027,5.0,Low
+Bihar,Patna,Rainy,25.615379,85.101027,125.0,Medium
+Bihar,Patna,Sunny/Clear,25.615379,85.101027,151.0,Low
+Chandigarh,Chandigarh ,Foggy & Misty,30.736292,76.788398,3.3333333333333335,Low
+Chandigarh,Chandigarh ,Hail/Sleet,30.736292,76.788398,0.0,Low
+Chandigarh,Chandigarh ,Others,30.736292,76.788398,0.0,Low
+Chandigarh,Chandigarh ,Rainy,30.736292,76.788398,3.0,Low
+Chandigarh,Chandigarh ,Sunny/Clear,30.736292,76.788398,217.66666666666666,Low
+Chhattisgarh,Raipur,Foggy & Misty,21.233333,81.633333,37.0,Low
+Chhattisgarh,Raipur,Hail/Sleet,21.233333,81.633333,3.3333333333333335,Low
+Chhattisgarh,Raipur,Others,21.233333,81.633333,140.33333333333334,Medium
+Chhattisgarh,Raipur,Rainy,21.233333,81.633333,259.6666666666667,High
+Chhattisgarh,Raipur,Sunny/Clear,21.233333,81.633333,1451.3333333333333,Medium
+Delhi,Delhi,Foggy & Misty,28.651952,77.231495,363.0,High
+Delhi,Delhi,Hail/Sleet,28.651952,77.231495,0.0,Low
+Delhi,Delhi,Others,28.651952,77.231495,1394.6666666666667,High
+Delhi,Delhi,Rainy,28.651952,77.231495,550.0,High
+Delhi,Delhi,Sunny/Clear,28.651952,77.231495,2528.3333333333335,High
+Gujarat,Ahmedabad,Foggy & Misty,23.025793,72.587265,15.666666666666666,Low
+Gujarat,Ahmedabad,Hail/Sleet,23.025793,72.587265,0.0,Low
+Gujarat,Ahmedabad,Others,23.025793,72.587265,0.0,Low
+Gujarat,Ahmedabad,Rainy,23.025793,72.587265,26.666666666666668,Low
+Gujarat,Ahmedabad,Sunny/Clear,23.025793,72.587265,1288.6666666666667,Medium
+Gujarat,Rajkot,Foggy & Misty,22.291606,70.793217,9.666666666666666,Low
+Gujarat,Rajkot,Hail/Sleet,22.291606,70.793217,54.333333333333336,High
+Gujarat,Rajkot,Others,22.291606,70.793217,7.333333333333333,Low
+Gujarat,Rajkot,Rainy,22.291606,70.793217,49.333333333333336,Low
+Gujarat,Rajkot,Sunny/Clear,22.291606,70.793217,330.3333333333333,Low
+Gujarat,Surat,Foggy & Misty,21.195944,72.830232,14.333333333333334,Low
+Gujarat,Surat,Hail/Sleet,21.195944,72.830232,0.0,Low
+Gujarat,Surat,Others,21.195944,72.830232,101.33333333333333,Medium
+Gujarat,Surat,Rainy,21.195944,72.830232,70.33333333333333,Medium
+Gujarat,Surat,Sunny/Clear,21.195944,72.830232,555.3333333333334,Medium
+Gujarat,Vadodara,Foggy & Misty,22.299405,73.208119,0.0,Low
+Gujarat,Vadodara,Hail/Sleet,22.299405,73.208119,0.0,Low
+Gujarat,Vadodara,Others,22.299405,73.208119,0.0,Low
+Gujarat,Vadodara,Rainy,22.299405,73.208119,38.666666666666664,Low
+Gujarat,Vadodara,Sunny/Clear,22.299405,73.208119,502.6666666666667,Low
+Haryana,Faridabad,Foggy & Misty,28.411236,77.313162,53.0,Low
+Haryana,Faridabad,Hail/Sleet,28.411236,77.313162,0.0,Low
+Haryana,Faridabad,Others,28.411236,77.313162,0.0,Low
+Haryana,Faridabad,Rainy,28.411236,77.313162,0.0,Low
+Haryana,Faridabad,Sunny/Clear,28.411236,77.313162,508.0,Low
+Jammu And Kashmir,Srinagar,Foggy & Misty,34.085652,74.805553,0.0,Low
+Jammu And Kashmir,Srinagar,Hail/Sleet,34.085652,74.805553,0.0,Low
+Jammu And Kashmir,Srinagar,Others,34.085652,74.805553,47.0,Low
+Jammu And Kashmir,Srinagar,Rainy,34.085652,74.805553,9.0,Low
+Jammu And Kashmir,Srinagar,Sunny/Clear,34.085652,74.805553,249.33333333333334,Low
+Jharkhand,Dhanbad,Foggy & Misty,23.801988,86.443244,8.666666666666666,Low
+Jharkhand,Dhanbad,Hail/Sleet,23.801988,86.443244,4.333333333333333,Low
+Jharkhand,Dhanbad,Others,23.801988,86.443244,39.666666666666664,Low
+Jharkhand,Dhanbad,Rainy,23.801988,86.443244,91.33333333333333,Medium
+Jharkhand,Dhanbad,Sunny/Clear,23.801988,86.443244,30.0,Low
+Jharkhand,Jamshedpur,Foggy & Misty,22.802776,86.185448,31.333333333333332,Low
+Jharkhand,Jamshedpur,Hail/Sleet,22.802776,86.185448,0.0,Low
+Jharkhand,Jamshedpur,Others,22.802776,86.185448,24.333333333333332,Low
+Jharkhand,Jamshedpur,Rainy,22.802776,86.185448,42.666666666666664,Low
+Jharkhand,Jamshedpur,Sunny/Clear,22.802776,86.185448,55.666666666666664,Low
+Karnataka,Bengaluru,Foggy & Misty,12.977063,77.587106,84.66666666666667,Medium
+Karnataka,Bengaluru,Hail/Sleet,12.977063,77.587106,0.0,Low
+Karnataka,Bengaluru,Others,12.977063,77.587106,0.0,Low
+Karnataka,Bengaluru,Rainy,12.977063,77.587106,107.33333333333333,Medium
+Karnataka,Bengaluru,Sunny/Clear,12.977063,77.587106,3518.0,High
+Kerala,Calicut,Foggy & Misty,11.248016,75.780402,93.33333333333333,Medium
+Kerala,Calicut,Hail/Sleet,11.248016,75.780402,0.0,Low
+Kerala,Calicut,Others,11.248016,75.780402,32.666666666666664,Low
+Kerala,Calicut,Rainy,11.248016,75.780402,64.33333333333333,Medium
+Kerala,Calicut,Sunny/Clear,11.248016,75.780402,1135.3333333333333,Medium
+Kerala,Kannur,Foggy & Misty,11.8763836,75.3737973,6.666666666666667,Low
+Kerala,Kannur,Hail/Sleet,11.8763836,75.3737973,0.0,Low
+Kerala,Kannur,Others,11.8763836,75.3737973,0.0,Low
+Kerala,Kannur,Rainy,11.8763836,75.3737973,126.66666666666667,Medium
+Kerala,Kannur,Sunny/Clear,11.8763836,75.3737973,645.0,Medium
+Kerala,Kochi,Foggy & Misty,9.947743,76.253802,61.666666666666664,Medium
+Kerala,Kochi,Hail/Sleet,9.947743,76.253802,0.0,Low
+Kerala,Kochi,Others,9.947743,76.253802,50.666666666666664,Low
+Kerala,Kochi,Rainy,9.947743,76.253802,46.333333333333336,Low
+Kerala,Kochi,Sunny/Clear,9.947743,76.253802,1677.3333333333333,High
+Kerala,Kollam,Foggy & Misty,8.881131,76.584694,47.333333333333336,Low
+Kerala,Kollam,Hail/Sleet,8.881131,76.584694,5.0,Low
+Kerala,Kollam,Others,8.881131,76.584694,229.33333333333334,High
+Kerala,Kollam,Rainy,8.881131,76.584694,30.0,Low
+Kerala,Kollam,Sunny/Clear,8.881131,76.584694,1322.6666666666667,Medium
+Kerala,Kumbakonam,Foggy & Misty,10.959789,79.377472,77.0,Medium
+Kerala,Kumbakonam,Hail/Sleet,10.959789,79.377472,0.0,Low
+Kerala,Kumbakonam,Others,10.959789,79.377472,106.0,Medium
+Kerala,Kumbakonam,Rainy,10.959789,79.377472,234.33333333333334,High
+Kerala,Kumbakonam,Sunny/Clear,10.959789,79.377472,1747.0,High
+Kerala,Thiruvananthapuram,Foggy & Misty,8.485498,76.949238,24.0,Low
+Kerala,Thiruvananthapuram,Hail/Sleet,8.485498,76.949238,0.3333333333333333,Low
+Kerala,Thiruvananthapuram,Others,8.485498,76.949238,48.666666666666664,Low
+Kerala,Thiruvananthapuram,Rainy,8.485498,76.949238,58.0,Medium
+Kerala,Thiruvananthapuram,Sunny/Clear,8.485498,76.949238,1418.0,Medium
+Kerala,Thrissur,Foggy & Misty,10.5270099,76.214621,53.666666666666664,Medium
+Kerala,Thrissur,Hail/Sleet,10.5270099,76.214621,0.0,Low
+Kerala,Thrissur,Others,10.5270099,76.214621,0.0,Low
+Kerala,Thrissur,Rainy,10.5270099,76.214621,149.66666666666666,Medium
+Kerala,Thrissur,Sunny/Clear,10.5270099,76.214621,1594.3333333333333,High
+Madhya Pradesh,Bhopal ,Foggy & Misty,23.254688,77.402892,35.333333333333336,Low
+Madhya Pradesh,Bhopal ,Hail/Sleet,23.254688,77.402892,3.6666666666666665,Low
+Madhya Pradesh,Bhopal ,Others,23.254688,77.402892,385.0,High
+Madhya Pradesh,Bhopal ,Rainy,23.254688,77.402892,155.0,High
+Madhya Pradesh,Bhopal ,Sunny/Clear,23.254688,77.402892,2153.6666666666665,High
+Madhya Pradesh,Gwalior,Foggy & Misty,26.229825,78.173369,0.0,Low
+Madhya Pradesh,Gwalior,Hail/Sleet,26.229825,78.173369,0.0,Low
+Madhya Pradesh,Gwalior,Others,26.229825,78.173369,244.33333333333334,High
+Madhya Pradesh,Gwalior,Rainy,26.229825,78.173369,0.0,Low
+Madhya Pradesh,Gwalior,Sunny/Clear,26.229825,78.173369,1668.3333333333333,High
+Madhya Pradesh,Indore,Foggy & Misty,22.717736,75.85859,0.0,Low
+Madhya Pradesh,Indore,Hail/Sleet,22.717736,75.85859,0.0,Low
+Madhya Pradesh,Indore,Others,22.717736,75.85859,315.3333333333333,High
+Madhya Pradesh,Indore,Rainy,22.717736,75.85859,59.666666666666664,Medium
+Madhya Pradesh,Indore,Sunny/Clear,22.717736,75.85859,2990.0,High
+Madhya Pradesh,Jabalpur,Foggy & Misty,23.174495,79.935903,109.66666666666667,Medium
+Madhya Pradesh,Jabalpur,Hail/Sleet,23.174495,79.935903,40.0,High
+Madhya Pradesh,Jabalpur,Others,23.174495,79.935903,759.0,High
+Madhya Pradesh,Jabalpur,Rainy,23.174495,79.935903,371.0,High
+Madhya Pradesh,Jabalpur,Sunny/Clear,23.174495,79.935903,2213.0,High
+Maharashtra,Aurangabad,Foggy & Misty,19.880943,75.346739,5.0,Low
+Maharashtra,Aurangabad,Foggy & Misty,24.752037,84.374202,5.0,Low
+Maharashtra,Aurangabad,Hail/Sleet,19.880943,75.346739,0.0,Low
+Maharashtra,Aurangabad,Hail/Sleet,24.752037,84.374202,0.0,Low
+Maharashtra,Aurangabad,Others,19.880943,75.346739,0.0,Low
+Maharashtra,Aurangabad,Others,24.752037,84.374202,0.0,Low
+Maharashtra,Aurangabad,Rainy,19.880943,75.346739,5.333333333333333,Low
+Maharashtra,Aurangabad,Rainy,24.752037,84.374202,5.333333333333333,Low
+Maharashtra,Aurangabad,Sunny/Clear,19.880943,75.346739,468.6666666666667,Low
+Maharashtra,Aurangabad,Sunny/Clear,24.752037,84.374202,468.6666666666667,Low
+Maharashtra,Mumbai,Foggy & Misty,18.987807,72.836447,0.0,Low
+Maharashtra,Mumbai,Hail/Sleet,18.987807,72.836447,0.0,Low
+Maharashtra,Mumbai,Others,18.987807,72.836447,0.0,Low
+Maharashtra,Mumbai,Rainy,18.987807,72.836447,133.33333333333334,Medium
+Maharashtra,Mumbai,Sunny/Clear,18.987807,72.836447,2171.3333333333335,High
+Maharashtra,Nagpur,Foggy & Misty,21.1498134,79.0820556,1.3333333333333333,Low
+Maharashtra,Nagpur,Hail/Sleet,21.1498134,79.0820556,0.0,Low
+Maharashtra,Nagpur,Others,21.1498134,79.0820556,0.0,Low
+Maharashtra,Nagpur,Rainy,21.1498134,79.0820556,22.0,Low
+Maharashtra,Nagpur,Sunny/Clear,21.1498134,79.0820556,889.3333333333334,Medium
+Maharashtra,Nasik,Foggy & Misty,19.999963,73.776887,0.0,Low
+Maharashtra,Nasik,Hail/Sleet,19.999963,73.776887,0.0,Low
+Maharashtra,Nasik,Others,19.999963,73.776887,0.3333333333333333,Low
+Maharashtra,Nasik,Rainy,19.999963,73.776887,1.3333333333333333,Low
+Maharashtra,Nasik,Sunny/Clear,19.999963,73.776887,478.0,Low
+Maharashtra,Pune,Foggy & Misty,18.513271,73.849852,0.0,Low
+Maharashtra,Pune,Hail/Sleet,18.513271,73.849852,0.0,Low
+Maharashtra,Pune,Others,18.513271,73.849852,0.0,Low
+Maharashtra,Pune,Rainy,18.513271,73.849852,0.0,Low
+Maharashtra,Pune,Sunny/Clear,18.513271,73.849852,671.3333333333334,Medium
+Punjab,Amritsar,Foggy & Misty,31.622337,74.875335,7.0,Low
+Punjab,Amritsar,Hail/Sleet,31.622337,74.875335,0.6666666666666666,Low
+Punjab,Amritsar,Others,31.622337,74.875335,43.0,Low
+Punjab,Amritsar,Rainy,31.622337,74.875335,0.0,Low
+Punjab,Amritsar,Sunny/Clear,31.622337,74.875335,59.666666666666664,Low
+Punjab,Ludhiana,Foggy & Misty,30.912042,75.853789,80.66666666666667,Medium
+Punjab,Ludhiana,Hail/Sleet,30.912042,75.853789,17.0,Medium
+Punjab,Ludhiana,Others,30.912042,75.853789,217.0,High
+Punjab,Ludhiana,Rainy,30.912042,75.853789,23.333333333333332,Low
+Punjab,Ludhiana,Sunny/Clear,30.912042,75.853789,145.0,Low
+Rajasthan,Jaipur,Foggy & Misty,26.913312,75.787872,6.666666666666667,Low
+Rajasthan,Jaipur,Hail/Sleet,26.913312,75.787872,0.0,Low
+Rajasthan,Jaipur,Others,26.913312,75.787872,20.333333333333332,Low
+Rajasthan,Jaipur,Rainy,26.913312,75.787872,23.0,Low
+Rajasthan,Jaipur,Sunny/Clear,26.913312,75.787872,2742.0,High
+Rajasthan,Jodhpur,Foggy & Misty,26.26841,73.005943,44.0,Low
+Rajasthan,Jodhpur,Hail/Sleet,26.26841,73.005943,0.0,Low
+Rajasthan,Jodhpur,Others,26.26841,73.005943,108.33333333333333,Medium
+Rajasthan,Jodhpur,Rainy,26.26841,73.005943,9.0,Low
+Rajasthan,Jodhpur,Sunny/Clear,26.26841,73.005943,506.0,Low
+Rajasthan,Kota,Foggy & Misty,25.182544,75.839065,9.333333333333334,Low
+Rajasthan,Kota,Hail/Sleet,25.182544,75.839065,0.0,Low
+Rajasthan,Kota,Others,25.182544,75.839065,0.0,Low
+Rajasthan,Kota,Rainy,25.182544,75.839065,13.333333333333334,Low
+Rajasthan,Kota,Sunny/Clear,25.182544,75.839065,479.0,Low
+Tamil Nadu,Chennai,Foggy & Misty,13.084622,80.248357,2006.6666666666667,High
+Tamil Nadu,Chennai,Hail/Sleet,13.084622,80.248357,0.0,Low
+Tamil Nadu,Chennai,Others,13.084622,80.248357,181.0,Medium
+Tamil Nadu,Chennai,Rainy,13.084622,80.248357,761.0,High
+Tamil Nadu,Chennai,Sunny/Clear,13.084622,80.248357,2482.6666666666665,High
+Tamil Nadu,Coimbatore,Foggy & Misty,11.005547,76.966122,58.666666666666664,Medium
+Tamil Nadu,Coimbatore,Hail/Sleet,11.005547,76.966122,0.0,Low
+Tamil Nadu,Coimbatore,Others,11.005547,76.966122,1.3333333333333333,Low
+Tamil Nadu,Coimbatore,Rainy,11.005547,76.966122,78.33333333333333,Medium
+Tamil Nadu,Coimbatore,Sunny/Clear,11.005547,76.966122,740.0,Medium
+Tamil Nadu,Madurai,Foggy & Misty,9.917347,78.119622,0.0,Low
+Tamil Nadu,Madurai,Hail/Sleet,9.917347,78.119622,0.0,Low
+Tamil Nadu,Madurai,Others,9.917347,78.119622,0.0,Low
+Tamil Nadu,Madurai,Rainy,9.917347,78.119622,0.6666666666666666,Low
+Tamil Nadu,Madurai,Sunny/Clear,9.917347,78.119622,670.6666666666666,Medium
+Tamil Nadu,Tiruchchirappalli,Foggy & Misty,10.815499,78.696513,22.0,Low
+Tamil Nadu,Tiruchchirappalli,Hail/Sleet,10.815499,78.696513,0.0,Low
+Tamil Nadu,Tiruchchirappalli,Others,10.815499,78.696513,2.0,Low
+Tamil Nadu,Tiruchchirappalli,Rainy,10.815499,78.696513,56.0,Medium
+Tamil Nadu,Tiruchchirappalli,Sunny/Clear,10.815499,78.696513,358.0,Low
+Telangana,Hyderabad,Foggy & Misty,17.384052,78.456355,70.0,Medium
+Telangana,Hyderabad,Hail/Sleet,17.384052,78.456355,4.666666666666667,Low
+Telangana,Hyderabad,Others,17.384052,78.456355,531.3333333333334,High
+Telangana,Hyderabad,Rainy,17.384052,78.456355,13.666666666666666,Low
+Telangana,Hyderabad,Sunny/Clear,17.384052,78.456355,1792.6666666666667,High
+Uttar Pradesh,Agra,Foggy & Misty,27.187935,78.003944,246.0,High
+Uttar Pradesh,Agra,Hail/Sleet,27.187935,78.003944,55.333333333333336,High
+Uttar Pradesh,Agra,Others,27.187935,78.003944,138.66666666666666,Medium
+Uttar Pradesh,Agra,Rainy,27.187935,78.003944,192.33333333333334,High
+Uttar Pradesh,Agra,Sunny/Clear,27.187935,78.003944,336.3333333333333,Low
+Uttar Pradesh,Allahabad,Foggy & Misty,25.44478,81.843217,258.0,High
+Uttar Pradesh,Allahabad,Hail/Sleet,25.44478,81.843217,217.66666666666666,High
+Uttar Pradesh,Allahabad,Others,25.44478,81.843217,225.0,High
+Uttar Pradesh,Allahabad,Rainy,25.44478,81.843217,225.33333333333334,High
+Uttar Pradesh,Allahabad,Sunny/Clear,25.44478,81.843217,317.3333333333333,Low
+Uttar Pradesh,Ghaziabad,Foggy & Misty,28.665353,77.439148,147.0,Medium
+Uttar Pradesh,Ghaziabad,Hail/Sleet,28.665353,77.439148,0.0,Low
+Uttar Pradesh,Ghaziabad,Others,28.665353,77.439148,202.33333333333334,Medium
+Uttar Pradesh,Ghaziabad,Rainy,28.665353,77.439148,113.0,Medium
+Uttar Pradesh,Ghaziabad,Sunny/Clear,28.665353,77.439148,345.0,Low
+Uttar Pradesh,Kanpur,Foggy & Misty,26.4609135,80.3217588,349.6666666666667,High
+Uttar Pradesh,Kanpur,Hail/Sleet,26.4609135,80.3217588,120.66666666666667,High
+Uttar Pradesh,Kanpur,Others,26.4609135,80.3217588,460.0,High
+Uttar Pradesh,Kanpur,Rainy,26.4609135,80.3217588,180.66666666666666,High
+Uttar Pradesh,Kanpur,Sunny/Clear,26.4609135,80.3217588,250.66666666666666,Low
+Uttar Pradesh,Lucknow,Foggy & Misty,26.839281,80.923133,230.33333333333334,High
+Uttar Pradesh,Lucknow,Hail/Sleet,26.839281,80.923133,138.66666666666666,High
+Uttar Pradesh,Lucknow,Others,26.839281,80.923133,78.0,Medium
+Uttar Pradesh,Lucknow,Rainy,26.839281,80.923133,192.33333333333334,High
+Uttar Pradesh,Lucknow,Sunny/Clear,26.839281,80.923133,501.0,Low
+Uttar Pradesh,Meerut,Foggy & Misty,28.980018,77.706356,122.66666666666667,Medium
+Uttar Pradesh,Meerut,Hail/Sleet,28.980018,77.706356,34.333333333333336,High
+Uttar Pradesh,Meerut,Others,28.980018,77.706356,296.3333333333333,High
+Uttar Pradesh,Meerut,Rainy,28.980018,77.706356,59.0,Medium
+Uttar Pradesh,Meerut,Sunny/Clear,28.980018,77.706356,318.3333333333333,Low
+Uttar Pradesh,Varanasi,Foggy & Misty,25.31774,83.005811,100.66666666666667,Medium
+Uttar Pradesh,Varanasi,Hail/Sleet,25.31774,83.005811,19.333333333333332,Medium
+Uttar Pradesh,Varanasi,Others,25.31774,83.005811,76.66666666666667,Medium
+Uttar Pradesh,Varanasi,Rainy,25.31774,83.005811,86.66666666666667,Medium
+Uttar Pradesh,Varanasi,Sunny/Clear,25.31774,83.005811,209.33333333333334,Low
+West Bengal,Asansol,Foggy & Misty,23.683333,86.983333,57.0,Medium
+West Bengal,Asansol,Hail/Sleet,23.683333,86.983333,0.3333333333333333,Low
+West Bengal,Asansol,Others,23.683333,86.983333,180.66666666666666,Medium
+West Bengal,Asansol,Rainy,23.683333,86.983333,5.0,Low
+West Bengal,Asansol,Sunny/Clear,23.683333,86.983333,181.0,Low
+West Bengal,Kolkata ,Foggy & Misty,22.562627,88.363044,83.0,Medium
+West Bengal,Kolkata ,Hail/Sleet,22.562627,88.363044,0.0,Low
+West Bengal,Kolkata ,Others,22.562627,88.363044,56.333333333333336,Low
+West Bengal,Kolkata ,Rainy,22.562627,88.363044,124.66666666666667,Medium
+West Bengal,Kolkata ,Sunny/Clear,22.562627,88.363044,1702.6666666666667,High
