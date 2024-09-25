@@ -1,0 +1,751 @@
+Country,State,Year,City Name,Type Of Weather,Total Number Of Accidents  (UOM:Number),Number Of Persons Killed In Road Accident (UOM:Number),Number Of Grievously Injured Persons (UOM:Number),Number Of Minor Injured Persons (UOM:Number),Number Of Total Injured Persons (UOM:Number)
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vijaywada city,Foggy & Misty,75,24,21,48,69
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vijaywada city,Hail/Sleet,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vijaywada city,Others,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vijaywada city,Rainy,8,2,0,7,7
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vijaywada city,Sunny/Clear,1412,328,453,862,1315
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vizag,Foggy & Misty,171,31,95,46,141
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vizag,Hail/Sleet,44,5,43,5,48
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vizag,Others,362,72,263,75,338
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vizag,Rainy,137,13,72,47,119
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2019",Vizag,Sunny/Clear,992,202,557,267,824
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vijaywada city,Foggy & Misty,7,3,2,4,6
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vijaywada city,Hail/Sleet,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vijaywada city,Others,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vijaywada city,Rainy,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vijaywada city,Sunny/Clear,1065,271,407,564,971
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vizag,Foggy & Misty,71,7,26,23,49
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vizag,Hail/Sleet,9,0,7,0,7
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vizag,Others,453,68,187,105,292
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vizag,Rainy,25,4,13,8,21
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2020",Vizag,Sunny/Clear,1207,176,561,252,813
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vijaywada city,Foggy & Misty,34,13,15,12,27
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vijaywada city,Hail/Sleet,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vijaywada city,Others,58,18,17,33,50
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vijaywada city,Rainy,23,6,6,14,20
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vijaywada city,Sunny/Clear,1113,250,463,521,984
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vizag,Foggy & Misty,89,20,50,24,74
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vizag,Hail/Sleet,7,3,4,0,4
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vizag,Others,0,0,0,0,0
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vizag,Rainy,132,17,61,39,100
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2021",Vizag,Sunny/Clear,2111,328,831,524,1355
+India,Bihar,"Financial Year (Apr - Mar), 2019",Patna,Foggy & Misty,203,80,97,10,107
+India,Bihar,"Financial Year (Apr - Mar), 2019",Patna,Hail/Sleet,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2019",Patna,Others,15,8,10,0,10
+India,Bihar,"Financial Year (Apr - Mar), 2019",Patna,Rainy,146,43,93,5,98
+India,Bihar,"Financial Year (Apr - Mar), 2019",Patna,Sunny/Clear,160,61,93,6,99
+India,Bihar,"Financial Year (Apr - Mar), 2020",Patna,Foggy & Misty,140,60,87,7,94
+India,Bihar,"Financial Year (Apr - Mar), 2020",Patna,Hail/Sleet,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2020",Patna,Others,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2020",Patna,Rainy,88,30,69,3,72
+India,Bihar,"Financial Year (Apr - Mar), 2020",Patna,Sunny/Clear,145,91,72,5,77
+India,Bihar,"Financial Year (Apr - Mar), 2021",Patna,Foggy & Misty,95,56,84,3,87
+India,Bihar,"Financial Year (Apr - Mar), 2021",Patna,Hail/Sleet,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2021",Patna,Others,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2021",Patna,Rainy,141,81,86,4,90
+India,Bihar,"Financial Year (Apr - Mar), 2021",Patna,Sunny/Clear,148,73,102,6,108
+India,Chandigarh,"Financial Year (Apr - Mar), 2019",Chandigarh,Foggy & Misty,2,1,1,0,1
+India,Chandigarh,"Financial Year (Apr - Mar), 2019",Chandigarh,Hail/Sleet,0,0,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2019",Chandigarh,Others,0,0,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2019",Chandigarh,Rainy,4,0,0,5,5
+India,Chandigarh,"Financial Year (Apr - Mar), 2019",Chandigarh,Sunny/Clear,299,103,16,253,269
+India,Chandigarh,"Financial Year (Apr - Mar), 2020",Chandigarh,Foggy & Misty,6,6,0,3,3
+India,Chandigarh,"Financial Year (Apr - Mar), 2020",Chandigarh,Hail/Sleet,0,0,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2020",Chandigarh,Others,0,0,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2020",Chandigarh,Rainy,1,1,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2020",Chandigarh,Sunny/Clear,152,46,14,131,145
+India,Chandigarh,"Financial Year (Apr - Mar), 2021",Chandigarh,Foggy & Misty,2,1,0,1,1
+India,Chandigarh,"Financial Year (Apr - Mar), 2021",Chandigarh,Hail/Sleet,0,0,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2021",Chandigarh,Others,0,0,0,0,0
+India,Chandigarh,"Financial Year (Apr - Mar), 2021",Chandigarh,Rainy,4,4,0,1,1
+India,Chandigarh,"Financial Year (Apr - Mar), 2021",Chandigarh,Sunny/Clear,202,91,9,161,170
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",Raipur,Foggy & Misty,62,9,2,38,40
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",Raipur,Hail/Sleet,10,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",Raipur,Others,421,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",Raipur,Rainy,138,27,5,77,82
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",Raipur,Sunny/Clear,1515,422,68,1391,1459
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",Raipur,Foggy & Misty,27,2,2,21,23
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",Raipur,Hail/Sleet,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",Raipur,Others,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",Raipur,Rainy,309,32,9,186,195
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",Raipur,Sunny/Clear,1430,448,38,1038,1076
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2021",Raipur,Foggy & Misty,22,1,0,9,9
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2021",Raipur,Hail/Sleet,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2021",Raipur,Others,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2021",Raipur,Rainy,332,34,9,192,201
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2021",Raipur,Sunny/Clear,1409,437,54,1047,1101
+India,Delhi,"Financial Year (Apr - Mar), 2019",Delhi,Foggy & Misty,863,240,95,673,768
+India,Delhi,"Financial Year (Apr - Mar), 2019",Delhi,Hail/Sleet,0,0,0,0,0
+India,Delhi,"Financial Year (Apr - Mar), 2019",Delhi,Others,1311,323,187,1078,1265
+India,Delhi,"Financial Year (Apr - Mar), 2019",Delhi,Rainy,800,201,96,646,742
+India,Delhi,"Financial Year (Apr - Mar), 2019",Delhi,Sunny/Clear,2636,699,400,1977,2377
+India,Delhi,"Financial Year (Apr - Mar), 2020",Delhi,Foggy & Misty,194,31,13,204,217
+India,Delhi,"Financial Year (Apr - Mar), 2020",Delhi,Hail/Sleet,0,0,0,0,0
+India,Delhi,"Financial Year (Apr - Mar), 2020",Delhi,Others,1334,478,76,973,1049
+India,Delhi,"Financial Year (Apr - Mar), 2020",Delhi,Rainy,265,36,17,308,325
+India,Delhi,"Financial Year (Apr - Mar), 2020",Delhi,Sunny/Clear,2385,651,106,1965,2071
+India,Delhi,"Financial Year (Apr - Mar), 2021",Delhi,Foggy & Misty,32,8,4,31,35
+India,Delhi,"Financial Year (Apr - Mar), 2021",Delhi,Hail/Sleet,0,0,0,0,0
+India,Delhi,"Financial Year (Apr - Mar), 2021",Delhi,Others,1539,468,57,1296,1353
+India,Delhi,"Financial Year (Apr - Mar), 2021",Delhi,Rainy,585,159,25,525,550
+India,Delhi,"Financial Year (Apr - Mar), 2021",Delhi,Sunny/Clear,2564,604,93,2242,2335
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Ahmedabad,Foggy & Misty,47,12,22,29,51
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Ahmedabad,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Ahmedabad,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Ahmedabad,Rainy,79,39,26,38,64
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Ahmedabad,Sunny/Clear,1249,388,541,487,1028
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Rajkot,Foggy & Misty,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Rajkot,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Rajkot,Others,22,9,7,7,14
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Rajkot,Rainy,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Rajkot,Sunny/Clear,553,161,205,218,423
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Surat,Foggy & Misty,18,5,13,0,13
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Surat,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Surat,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Surat,Rainy,81,30,46,14,60
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Surat,Sunny/Clear,846,257,475,170,645
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Vadodra,Foggy & Misty,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Vadodra,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Vadodra,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Vadodra,Rainy,55,10,23,15,38
+India,Gujarat,"Financial Year (Apr - Mar), 2019",Vadodra,Sunny/Clear,624,148,324,189,513
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Ahmedabad,Foggy & Misty,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Ahmedabad,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Ahmedabad,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Ahmedabad,Rainy,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Ahmedabad,Sunny/Clear,1185,340,476,310,786
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Rajkot,Foggy & Misty,21,8,7,6,13
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Rajkot,Hail/Sleet,163,62,80,37,117
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Rajkot,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Rajkot,Rainy,131,31,69,47,116
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Rajkot,Sunny/Clear,117,37,45,33,78
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Surat,Foggy & Misty,14,8,7,1,8
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Surat,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Surat,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Surat,Rainy,98,30,62,17,79
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Surat,Sunny/Clear,463,153,249,87,336
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Vadodra,Foggy & Misty,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Vadodra,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Vadodra,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Vadodra,Rainy,36,11,13,16,29
+India,Gujarat,"Financial Year (Apr - Mar), 2020",Vadodra,Sunny/Clear,445,142,228,151,379
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Ahmedabad,Foggy & Misty,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Ahmedabad,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Ahmedabad,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Ahmedabad,Rainy,1,1,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Ahmedabad,Sunny/Clear,1432,403,620,442,1062
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Rajkot,Foggy & Misty,8,7,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Rajkot,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Rajkot,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Rajkot,Rainy,17,11,12,3,15
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Rajkot,Sunny/Clear,321,118,148,127,275
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Surat,Foggy & Misty,11,5,6,2,8
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Surat,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Surat,Others,304,122,174,58,232
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Surat,Rainy,32,9,22,4,26
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Surat,Sunny/Clear,357,136,200,47,247
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Vadodra,Foggy & Misty,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Vadodra,Hail/Sleet,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Vadodra,Others,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Vadodra,Rainy,25,13,13,3,16
+India,Gujarat,"Financial Year (Apr - Mar), 2021",Vadodra,Sunny/Clear,439,133,192,141,333
+India,Haryana,"Financial Year (Apr - Mar), 2019",Faridabad,Foggy & Misty,57,21,10,40,50
+India,Haryana,"Financial Year (Apr - Mar), 2019",Faridabad,Hail/Sleet,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2019",Faridabad,Others,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2019",Faridabad,Rainy,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2019",Faridabad,Sunny/Clear,632,243,91,494,585
+India,Haryana,"Financial Year (Apr - Mar), 2020",Faridabad,Foggy & Misty,54,20,6,37,43
+India,Haryana,"Financial Year (Apr - Mar), 2020",Faridabad,Hail/Sleet,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2020",Faridabad,Others,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2020",Faridabad,Rainy,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2020",Faridabad,Sunny/Clear,435,175,59,319,378
+India,Haryana,"Financial Year (Apr - Mar), 2021",Faridabad,Foggy & Misty,48,17,6,35,41
+India,Haryana,"Financial Year (Apr - Mar), 2021",Faridabad,Hail/Sleet,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2021",Faridabad,Others,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2021",Faridabad,Rainy,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2021",Faridabad,Sunny/Clear,457,194,57,325,382
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2019",Srinagar,Foggy & Misty,0,0,0,0,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2019",Srinagar,Hail/Sleet,0,0,0,0,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2019",Srinagar,Others,79,11,0,61,61
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2019",Srinagar,Rainy,13,0,0,13,13
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2019",Srinagar,Sunny/Clear,218,34,0,249,249
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",Srinagar,Foggy & Misty,0,0,0,0,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",Srinagar,Hail/Sleet,0,0,0,0,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",Srinagar,Others,27,2,0,25,25
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",Srinagar,Rainy,5,1,0,4,4
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",Srinagar,Sunny/Clear,243,42,0,246,246
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2021",Srinagar,Foggy & Misty,0,0,0,0,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2021",Srinagar,Hail/Sleet,0,0,0,0,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2021",Srinagar,Others,35,0,0,36,36
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2021",Srinagar,Rainy,9,1,0,9,9
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2021",Srinagar,Sunny/Clear,287,39,3,299,302
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Dhanbad,Foggy & Misty,9,4,5,3,8
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Dhanbad,Hail/Sleet,1,2,0,0,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Dhanbad,Others,35,18,14,10,24
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Dhanbad,Rainy,109,93,18,13,31
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Dhanbad,Sunny/Clear,17,10,9,3,12
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Jamshedpur,Foggy & Misty,46,22,18,10,28
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Jamshedpur,Hail/Sleet,0,0,0,0,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Jamshedpur,Others,44,23,32,4,36
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Jamshedpur,Rainy,49,22,22,8,30
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",Jamshedpur,Sunny/Clear,52,25,28,7,35
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Dhanbad,Foggy & Misty,9,3,5,3,8
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Dhanbad,Hail/Sleet,8,1,2,4,6
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Dhanbad,Others,45,29,18,7,25
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Dhanbad,Rainy,74,31,40,8,48
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Dhanbad,Sunny/Clear,28,19,7,4,11
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Jamshedpur,Foggy & Misty,30,12,18,3,21
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Jamshedpur,Hail/Sleet,0,0,0,0,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Jamshedpur,Others,9,4,8,2,10
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Jamshedpur,Rainy,36,14,23,4,27
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",Jamshedpur,Sunny/Clear,44,17,27,6,33
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Dhanbad,Foggy & Misty,8,5,3,3,6
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Dhanbad,Hail/Sleet,4,3,1,6,7
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Dhanbad,Others,39,39,18,4,22
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Dhanbad,Rainy,91,46,59,7,66
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Dhanbad,Sunny/Clear,45,30,5,2,7
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Jamshedpur,Foggy & Misty,18,3,20,2,22
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Jamshedpur,Hail/Sleet,0,0,0,0,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Jamshedpur,Others,20,12,15,2,17
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Jamshedpur,Rainy,43,15,35,2,37
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",Jamshedpur,Sunny/Clear,71,35,56,2,58
+India,Karnataka,"Financial Year (Apr - Mar), 2019",Bengaluru,Foggy & Misty,73,9,51,21,72
+India,Karnataka,"Financial Year (Apr - Mar), 2019",Bengaluru,Hail/Sleet,0,0,0,0,0
+India,Karnataka,"Financial Year (Apr - Mar), 2019",Bengaluru,Others,0,0,0,0,0
+India,Karnataka,"Financial Year (Apr - Mar), 2019",Bengaluru,Rainy,90,10,44,41,85
+India,Karnataka,"Financial Year (Apr - Mar), 2019",Bengaluru,Sunny/Clear,4521,749,2393,1700,4093
+India,Karnataka,"Financial Year (Apr - Mar), 2020",Bengaluru,Foggy & Misty,104,29,66,13,79
+India,Karnataka,"Financial Year (Apr - Mar), 2020",Bengaluru,Hail/Sleet,0,0,0,0,0
+India,Karnataka,"Financial Year (Apr - Mar), 2020",Bengaluru,Others,0,0,0,0,0
+India,Karnataka,"Financial Year (Apr - Mar), 2020",Bengaluru,Rainy,115,30,46,37,83
+India,Karnataka,"Financial Year (Apr - Mar), 2020",Bengaluru,Sunny/Clear,3014,587,1595,994,2589
+India,Karnataka,"Financial Year (Apr - Mar), 2021",Bengaluru,Foggy & Misty,77,17,55,16,71
+India,Karnataka,"Financial Year (Apr - Mar), 2021",Bengaluru,Hail/Sleet,0,0,0,0,0
+India,Karnataka,"Financial Year (Apr - Mar), 2021",Bengaluru,Others,0,0,0,0,0
+India,Karnataka,"Financial Year (Apr - Mar), 2021",Bengaluru,Rainy,117,26,79,36,115
+India,Karnataka,"Financial Year (Apr - Mar), 2021",Bengaluru,Sunny/Clear,3019,611,1803,831,2634
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kannur,Foggy & Misty,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kannur,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kannur,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kannur,Rainy,181,16,112,91,203
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kannur,Sunny/Clear,476,66,293,315,608
+India,Kerala,"Financial Year (Apr - Mar), 2019",Khozikode,Foggy & Misty,120,21,81,24,105
+India,Kerala,"Financial Year (Apr - Mar), 2019",Khozikode,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Khozikode,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Khozikode,Rainy,120,28,82,38,120
+India,Kerala,"Financial Year (Apr - Mar), 2019",Khozikode,Sunny/Clear,1357,130,989,383,1372
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kochi,Foggy & Misty,43,5,32,8,40
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kochi,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kochi,Others,84,10,59,15,74
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kochi,Rainy,28,5,16,8,24
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kochi,Sunny/Clear,2135,135,1590,526,2116
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kollam,Foggy & Misty,47,10,38,5,43
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kollam,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kollam,Others,370,52,330,46,376
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kollam,Rainy,52,3,44,7,51
+India,Kerala,"Financial Year (Apr - Mar), 2019",Kollam,Sunny/Clear,1471,160,1314,197,1511
+India,Kerala,"Financial Year (Apr - Mar), 2019",Mallapuram,Foggy & Misty,72,10,56,16,72
+India,Kerala,"Financial Year (Apr - Mar), 2019",Mallapuram,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Mallapuram,Others,318,61,248,91,339
+India,Kerala,"Financial Year (Apr - Mar), 2019",Mallapuram,Rainy,125,17,83,44,127
+India,Kerala,"Financial Year (Apr - Mar), 2019",Mallapuram,Sunny/Clear,2047,276,1668,620,2288
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thiruvanthapuram,Foggy & Misty,23,5,18,8,26
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thiruvanthapuram,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thiruvanthapuram,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thiruvanthapuram,Rainy,169,28,143,29,172
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thiruvanthapuram,Sunny/Clear,1803,172,1601,385,1986
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thrissur,Foggy & Misty,161,21,115,82,197
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thrissur,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thrissur,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thrissur,Rainy,211,23,159,71,230
+India,Kerala,"Financial Year (Apr - Mar), 2019",Thrissur,Sunny/Clear,1838,169,1362,702,2064
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kannur,Foggy & Misty,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kannur,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kannur,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kannur,Rainy,94,9,63,51,114
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kannur,Sunny/Clear,410,48,241,218,459
+India,Kerala,"Financial Year (Apr - Mar), 2020",Khozikode,Foggy & Misty,82,18,57,22,79
+India,Kerala,"Financial Year (Apr - Mar), 2020",Khozikode,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Khozikode,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Khozikode,Rainy,57,4,45,15,60
+India,Kerala,"Financial Year (Apr - Mar), 2020",Khozikode,Sunny/Clear,864,69,660,213,873
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kochi,Foggy & Misty,64,7,51,7,58
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kochi,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kochi,Others,68,9,44,16,60
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kochi,Rainy,14,3,5,8,13
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kochi,Sunny/Clear,1291,82,1022,253,1275
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kollam,Foggy & Misty,15,2,14,0,14
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kollam,Hail/Sleet,15,2,15,0,15
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kollam,Others,190,44,141,34,175
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kollam,Rainy,23,4,16,4,20
+India,Kerala,"Financial Year (Apr - Mar), 2020",Kollam,Sunny/Clear,1168,142,1020,137,1157
+India,Kerala,"Financial Year (Apr - Mar), 2020",Mallapuram,Foggy & Misty,68,15,40,20,60
+India,Kerala,"Financial Year (Apr - Mar), 2020",Mallapuram,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Mallapuram,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Mallapuram,Rainy,256,45,188,68,256
+India,Kerala,"Financial Year (Apr - Mar), 2020",Mallapuram,Sunny/Clear,1460,187,1140,372,1512
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thiruvanthapuram,Foggy & Misty,24,3,21,4,25
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thiruvanthapuram,Hail/Sleet,1,0,1,0,1
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thiruvanthapuram,Others,76,14,62,13,75
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thiruvanthapuram,Rainy,2,2,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thiruvanthapuram,Sunny/Clear,1111,89,940,222,1162
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thrissur,Foggy & Misty,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thrissur,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thrissur,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thrissur,Rainy,15,4,12,13,25
+India,Kerala,"Financial Year (Apr - Mar), 2020",Thrissur,Sunny/Clear,1449,130,1090,517,1607
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kannur,Foggy & Misty,20,3,11,8,19
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kannur,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kannur,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kannur,Rainy,105,19,53,60,113
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kannur,Sunny/Clear,1049,100,700,495,1195
+India,Kerala,"Financial Year (Apr - Mar), 2021",Khozikode,Foggy & Misty,78,8,61,16,77
+India,Kerala,"Financial Year (Apr - Mar), 2021",Khozikode,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Khozikode,Others,98,15,72,18,90
+India,Kerala,"Financial Year (Apr - Mar), 2021",Khozikode,Rainy,16,3,14,0,14
+India,Kerala,"Financial Year (Apr - Mar), 2021",Khozikode,Sunny/Clear,1185,105,850,360,1210
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kochi,Foggy & Misty,78,9,55,17,72
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kochi,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kochi,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kochi,Rainy,97,15,70,25,95
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kochi,Sunny/Clear,1606,117,1218,373,1591
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kollam,Foggy & Misty,80,15,73,15,88
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kollam,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kollam,Others,128,28,116,28,144
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kollam,Rainy,15,2,12,5,17
+India,Kerala,"Financial Year (Apr - Mar), 2021",Kollam,Sunny/Clear,1329,139,1143,255,1398
+India,Kerala,"Financial Year (Apr - Mar), 2021",Mallapuram,Foggy & Misty,91,14,67,25,92
+India,Kerala,"Financial Year (Apr - Mar), 2021",Mallapuram,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Mallapuram,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Mallapuram,Rainy,322,47,249,105,354
+India,Kerala,"Financial Year (Apr - Mar), 2021",Mallapuram,Sunny/Clear,1734,230,1417,521,1938
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thiruvanthapuram,Foggy & Misty,25,4,20,3,23
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thiruvanthapuram,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thiruvanthapuram,Others,70,3,68,10,78
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thiruvanthapuram,Rainy,3,0,3,0,3
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thiruvanthapuram,Sunny/Clear,1340,110,1163,248,1411
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thrissur,Foggy & Misty,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thrissur,Hail/Sleet,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thrissur,Others,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thrissur,Rainy,223,33,169,65,234
+India,Kerala,"Financial Year (Apr - Mar), 2021",Thrissur,Sunny/Clear,1496,168,1112,529,1641
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Bhopal,Foggy & Misty,47,5,4,39,43
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Bhopal,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Bhopal,Others,487,38,49,358,407
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Bhopal,Rainy,267,17,21,202,223
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Bhopal,Sunny/Clear,2486,199,149,1808,1957
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Gwalior,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Gwalior,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Gwalior,Others,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Gwalior,Rainy,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Gwalior,Sunny/Clear,2109,292,80,1528,1608
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Indore,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Indore,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Indore,Others,289,32,6,246,252
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Indore,Rainy,179,14,3,158,161
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Indore,Sunny/Clear,2915,282,33,2545,2578
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Jabalpur,Foggy & Misty,8,2,3,4,7
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Jabalpur,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Jabalpur,Others,824,76,121,679,800
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Jabalpur,Rainy,582,48,78,565,643
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",Jabalpur,Sunny/Clear,1983,280,329,1751,2080
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Bhopal,Foggy & Misty,59,11,11,37,48
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Bhopal,Hail/Sleet,11,2,2,5,7
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Bhopal,Others,263,31,29,147,176
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Bhopal,Rainy,198,24,21,162,183
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Bhopal,Sunny/Clear,1764,169,123,1270,1393
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Gwalior,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Gwalior,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Gwalior,Others,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Gwalior,Rainy,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Gwalior,Sunny/Clear,1799,316,95,1234,1329
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Indore,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Indore,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Indore,Others,344,39,19,262,281
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Indore,Rainy,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Indore,Sunny/Clear,2692,420,203,2164,2367
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Jabalpur,Foggy & Misty,222,29,34,169,203
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Jabalpur,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Jabalpur,Others,694,58,91,579,670
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Jabalpur,Rainy,205,30,21,160,181
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",Jabalpur,Sunny/Clear,2105,305,344,1859,2203
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Bhopal,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Bhopal,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Bhopal,Others,405,37,37,278,315
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Bhopal,Rainy,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Bhopal,Sunny/Clear,2211,216,204,1671,1875
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Gwalior,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Gwalior,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Gwalior,Others,733,143,28,503,531
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Gwalior,Rainy,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Gwalior,Sunny/Clear,1097,216,50,759,809
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Indore,Foggy & Misty,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Indore,Hail/Sleet,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Indore,Others,313,30,17,213,230
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Indore,Rainy,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Indore,Sunny/Clear,3363,454,96,2866,2962
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Jabalpur,Foggy & Misty,99,47,77,105,182
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Jabalpur,Hail/Sleet,120,37,69,97,166
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Jabalpur,Others,759,17,84,811,895
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Jabalpur,Rainy,326,34,81,349,430
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",Jabalpur,Sunny/Clear,2551,332,241,1842,2083
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Aurangabad,Foggy & Misty,6,2,4,4,8
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Aurangabad,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Aurangabad,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Aurangabad,Rainy,3,0,2,0,2
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Aurangabad,Sunny/Clear,551,197,311,113,424
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Mumbai,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Mumbai,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Mumbai,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Mumbai,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Mumbai,Sunny/Clear,2872,447,2147,778,2925
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nagpur,Foggy & Misty,4,1,2,1,3
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nagpur,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nagpur,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nagpur,Rainy,66,16,34,30,64
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nagpur,Sunny/Clear,937,233,576,399,975
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nashik,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nashik,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nashik,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nashik,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Nashik,Sunny/Clear,553,177,385,155,540
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Pune,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Pune,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Pune,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Pune,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",Pune,Sunny/Clear,791,206,463,163,626
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Aurangabad,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Aurangabad,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Aurangabad,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Aurangabad,Rainy,3,1,2,0,2
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Aurangabad,Sunny/Clear,403,135,218,73,291
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Mumbai,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Mumbai,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Mumbai,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Mumbai,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Mumbai,Sunny/Clear,1812,349,1297,443,1740
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nagpur,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nagpur,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nagpur,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nagpur,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nagpur,Sunny/Clear,773,210,420,332,752
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nashik,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nashik,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nashik,Others,1,1,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nashik,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Nashik,Sunny/Clear,415,170,287,78,365
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Pune,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Pune,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Pune,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Pune,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",Pune,Sunny/Clear,482,143,297,91,388
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Aurangabad,Foggy & Misty,9,2,6,0,6
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Aurangabad,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Aurangabad,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Aurangabad,Rainy,10,2,5,3,8
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Aurangabad,Sunny/Clear,452,150,270,104,374
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Mumbai,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Mumbai,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Mumbai,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Mumbai,Rainy,400,75,244,126,370
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Mumbai,Sunny/Clear,1830,312,1261,311,1572
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nagpur,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nagpur,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nagpur,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nagpur,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nagpur,Sunny/Clear,958,268,552,412,964
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nashik,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nashik,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nashik,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nashik,Rainy,4,4,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Nashik,Sunny/Clear,466,181,340,63,403
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Pune,Foggy & Misty,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Pune,Hail/Sleet,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Pune,Others,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Pune,Rainy,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",Pune,Sunny/Clear,741,255,457,99,556
+India,Punjab,"Financial Year (Apr - Mar), 2019",Amritsar,Foggy & Misty,7,5,4,0,4
+India,Punjab,"Financial Year (Apr - Mar), 2019",Amritsar,Hail/Sleet,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2019",Amritsar,Others,40,23,20,9,29
+India,Punjab,"Financial Year (Apr - Mar), 2019",Amritsar,Rainy,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2019",Amritsar,Sunny/Clear,86,67,34,9,43
+India,Punjab,"Financial Year (Apr - Mar), 2019",Ludhiana,Foggy & Misty,55,31,24,0,24
+India,Punjab,"Financial Year (Apr - Mar), 2019",Ludhiana,Hail/Sleet,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2019",Ludhiana,Others,360,169,184,7,191
+India,Punjab,"Financial Year (Apr - Mar), 2019",Ludhiana,Rainy,34,12,16,6,22
+India,Punjab,"Financial Year (Apr - Mar), 2019",Ludhiana,Sunny/Clear,104,52,49,3,52
+India,Punjab,"Financial Year (Apr - Mar), 2020",Amritsar,Foggy & Misty,6,5,1,1,2
+India,Punjab,"Financial Year (Apr - Mar), 2020",Amritsar,Hail/Sleet,2,1,0,2,2
+India,Punjab,"Financial Year (Apr - Mar), 2020",Amritsar,Others,32,19,6,9,15
+India,Punjab,"Financial Year (Apr - Mar), 2020",Amritsar,Rainy,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2020",Amritsar,Sunny/Clear,60,41,31,9,40
+India,Punjab,"Financial Year (Apr - Mar), 2020",Ludhiana,Foggy & Misty,94,53,20,0,20
+India,Punjab,"Financial Year (Apr - Mar), 2020",Ludhiana,Hail/Sleet,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2020",Ludhiana,Others,211,110,69,20,89
+India,Punjab,"Financial Year (Apr - Mar), 2020",Ludhiana,Rainy,36,25,17,10,27
+India,Punjab,"Financial Year (Apr - Mar), 2020",Ludhiana,Sunny/Clear,77,95,33,15,48
+India,Punjab,"Financial Year (Apr - Mar), 2021",Amritsar,Foggy & Misty,8,6,6,0,6
+India,Punjab,"Financial Year (Apr - Mar), 2021",Amritsar,Hail/Sleet,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2021",Amritsar,Others,57,44,5,12,17
+India,Punjab,"Financial Year (Apr - Mar), 2021",Amritsar,Rainy,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2021",Amritsar,Sunny/Clear,33,15,16,9,25
+India,Punjab,"Financial Year (Apr - Mar), 2021",Ludhiana,Foggy & Misty,93,52,35,10,45
+India,Punjab,"Financial Year (Apr - Mar), 2021",Ludhiana,Hail/Sleet,51,32,3,3,6
+India,Punjab,"Financial Year (Apr - Mar), 2021",Ludhiana,Others,80,61,39,4,43
+India,Punjab,"Financial Year (Apr - Mar), 2021",Ludhiana,Rainy,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2021",Ludhiana,Sunny/Clear,254,235,58,17,75
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jaipur,Foggy & Misty,5,1,2,2,4
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jaipur,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jaipur,Others,60,46,38,11,49
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jaipur,Rainy,50,8,13,35,48
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jaipur,Sunny/Clear,4156,1228,1177,2303,3480
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jodhpur,Foggy & Misty,61,44,8,32,40
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jodhpur,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jodhpur,Others,169,51,26,115,141
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jodhpur,Rainy,26,14,2,13,15
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Jodhpur,Sunny/Clear,861,480,241,397,638
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Kota,Foggy & Misty,28,16,0,31,31
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Kota,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Kota,Others,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Kota,Rainy,40,17,3,38,41
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",Kota,Sunny/Clear,716,192,110,631,741
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jaipur,Foggy & Misty,15,0,7,12,19
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jaipur,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jaipur,Others,1,1,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jaipur,Rainy,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jaipur,Sunny/Clear,1924,605,437,1112,1549
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jodhpur,Foggy & Misty,42,26,1,21,22
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jodhpur,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jodhpur,Others,19,13,3,11,14
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jodhpur,Rainy,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Jodhpur,Sunny/Clear,231,103,29,142,171
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Kota,Foggy & Misty,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Kota,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Kota,Others,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Kota,Rainy,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",Kota,Sunny/Clear,353,60,67,295,362
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jaipur,Foggy & Misty,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jaipur,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jaipur,Others,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jaipur,Rainy,19,5,5,9,14
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jaipur,Sunny/Clear,2146,620,491,1286,1777
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jodhpur,Foggy & Misty,29,19,3,14,17
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jodhpur,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jodhpur,Others,137,46,7,95,102
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jodhpur,Rainy,1,1,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Jodhpur,Sunny/Clear,426,171,53,250,303
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Kota,Foggy & Misty,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Kota,Hail/Sleet,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Kota,Others,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Kota,Rainy,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",Kota,Sunny/Clear,368,75,90,277,367
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Chennai,Foggy & Misty,5251,926,1347,3809,5156
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Chennai,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Chennai,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Chennai,Rainy,255,38,47,210,257
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Chennai,Sunny/Clear,1365,288,379,910,1289
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Coimbatore,Foggy & Misty,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Coimbatore,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Coimbatore,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Coimbatore,Rainy,103,9,38,68,106
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Coimbatore,Sunny/Clear,959,123,294,673,967
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Madurai,Foggy & Misty,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Madurai,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Madurai,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Madurai,Rainy,1,1,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Madurai,Sunny/Clear,865,192,5,794,799
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Tiruchirapalli,Foggy & Misty,57,2,6,86,92
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Tiruchirapalli,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Tiruchirapalli,Others,5,3,0,3,3
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Tiruchirapalli,Rainy,117,25,5,124,129
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",Tiruchirapalli,Sunny/Clear,338,74,21,340,361
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Chennai,Foggy & Misty,667,132,187,407,594
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Chennai,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Chennai,Others,507,144,143,269,412
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Chennai,Rainy,1655,289,279,1521,1800
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Chennai,Sunny/Clear,1560,307,332,1125,1457
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Coimbatore,Foggy & Misty,53,4,27,29,56
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Coimbatore,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Coimbatore,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Coimbatore,Rainy,111,9,53,61,114
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Coimbatore,Sunny/Clear,543,52,267,285,552
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Madurai,Foggy & Misty,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Madurai,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Madurai,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Madurai,Rainy,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Madurai,Sunny/Clear,530,81,112,387,499
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Tiruchirapalli,Foggy & Misty,9,2,0,11,11
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Tiruchirapalli,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Tiruchirapalli,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Tiruchirapalli,Rainy,32,5,0,38,38
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",Tiruchirapalli,Sunny/Clear,357,80,0,352,352
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Chennai,Foggy & Misty,102,32,40,47,87
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Chennai,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Chennai,Others,36,9,23,11,34
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Chennai,Rainy,373,60,192,186,378
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Chennai,Sunny/Clear,4523,897,2818,1703,4521
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Coimbatore,Foggy & Misty,123,33,78,20,98
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Coimbatore,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Coimbatore,Others,4,2,1,2,3
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Coimbatore,Rainy,21,7,13,2,15
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Coimbatore,Sunny/Clear,718,192,479,92,571
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Madurai,Foggy & Misty,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Madurai,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Madurai,Others,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Madurai,Rainy,1,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Madurai,Sunny/Clear,617,154,281,225,506
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Tiruchirapalli,Foggy & Misty,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Tiruchirapalli,Hail/Sleet,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Tiruchirapalli,Others,1,0,0,1,1
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Tiruchirapalli,Rainy,19,2,7,12,19
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",Tiruchirapalli,Sunny/Clear,379,128,149,208,357
+India,Telangana,"Financial Year (Apr - Mar), 2019",Hyderabad,Foggy & Misty,0,0,0,0,0
+India,Telangana,"Financial Year (Apr - Mar), 2019",Hyderabad,Hail/Sleet,0,0,0,0,0
+India,Telangana,"Financial Year (Apr - Mar), 2019",Hyderabad,Others,0,0,0,0,0
+India,Telangana,"Financial Year (Apr - Mar), 2019",Hyderabad,Rainy,0,0,0,0,0
+India,Telangana,"Financial Year (Apr - Mar), 2019",Hyderabad,Sunny/Clear,2900,271,184,2465,2649
+India,Telangana,"Financial Year (Apr - Mar), 2020",Hyderabad,Foggy & Misty,16,3,1,15,16
+India,Telangana,"Financial Year (Apr - Mar), 2020",Hyderabad,Hail/Sleet,1,0,0,1,1
+India,Telangana,"Financial Year (Apr - Mar), 2020",Hyderabad,Others,562,73,22,489,511
+India,Telangana,"Financial Year (Apr - Mar), 2020",Hyderabad,Rainy,9,0,0,13,13
+India,Telangana,"Financial Year (Apr - Mar), 2020",Hyderabad,Sunny/Clear,1476,178,74,1277,1351
+India,Telangana,"Financial Year (Apr - Mar), 2021",Hyderabad,Foggy & Misty,194,30,38,140,178
+India,Telangana,"Financial Year (Apr - Mar), 2021",Hyderabad,Hail/Sleet,13,1,7,5,12
+India,Telangana,"Financial Year (Apr - Mar), 2021",Hyderabad,Others,1032,144,179,788,967
+India,Telangana,"Financial Year (Apr - Mar), 2021",Hyderabad,Rainy,32,8,6,21,27
+India,Telangana,"Financial Year (Apr - Mar), 2021",Hyderabad,Sunny/Clear,1002,114,210,757,967
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Agra,Foggy & Misty,350,181,151,65,216
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Agra,Hail/Sleet,62,49,34,20,54
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Agra,Others,61,51,14,21,35
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Agra,Rainy,173,85,85,45,130
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Agra,Sunny/Clear,439,250,398,99,497
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Allahabad(Prayagraj),Foggy & Misty,339,124,148,72,220
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Allahabad(Prayagraj),Hail/Sleet,233,90,96,55,151
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Allahabad(Prayagraj),Others,223,119,90,61,151
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Allahabad(Prayagraj),Rainy,241,130,127,76,203
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Allahabad(Prayagraj),Sunny/Clear,377,136,151,89,240
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Ghaziabad,Foggy & Misty,46,17,27,12,39
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Ghaziabad,Hail/Sleet,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Ghaziabad,Others,359,162,147,84,231
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Ghaziabad,Rainy,44,16,24,13,37
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Ghaziabad,Sunny/Clear,441,190,192,107,299
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Kanpur,Foggy & Misty,302,143,142,61,203
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Kanpur,Hail/Sleet,136,72,75,16,91
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Kanpur,Others,476,204,285,37,322
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Kanpur,Rainy,210,87,114,48,162
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Kanpur,Sunny/Clear,383,186,219,46,265
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Lucknow,Foggy & Misty,210,98,68,34,102
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Lucknow,Hail/Sleet,140,72,51,24,75
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Lucknow,Others,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Lucknow,Rainy,177,55,54,46,100
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Lucknow,Sunny/Clear,1158,356,334,320,654
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Meerut,Foggy & Misty,154,69,24,81,105
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Meerut,Hail/Sleet,84,32,14,48,62
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Meerut,Others,337,159,60,154,214
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Meerut,Rainy,130,53,22,75,97
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Meerut,Sunny/Clear,251,100,36,130,166
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Varanasi,Foggy & Misty,175,79,61,37,98
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Varanasi,Hail/Sleet,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Varanasi,Others,89,56,20,23,43
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Varanasi,Rainy,118,56,40,28,68
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",Varanasi,Sunny/Clear,228,97,58,61,119
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Agra,Foggy & Misty,215,107,77,59,136
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Agra,Hail/Sleet,59,35,42,23,65
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Agra,Others,195,127,77,21,98
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Agra,Rainy,240,123,87,78,165
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Agra,Sunny/Clear,197,122,94,75,169
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Allahabad(Prayagraj),Foggy & Misty,213,98,22,116,138
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Allahabad(Prayagraj),Hail/Sleet,216,92,23,114,137
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Allahabad(Prayagraj),Others,209,107,24,99,123
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Allahabad(Prayagraj),Rainy,209,92,21,128,149
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Allahabad(Prayagraj),Sunny/Clear,305,128,31,154,185
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Ghaziabad,Foggy & Misty,187,83,79,34,113
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Ghaziabad,Hail/Sleet,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Ghaziabad,Others,109,61,52,31,83
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Ghaziabad,Rainy,142,59,56,39,95
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Ghaziabad,Sunny/Clear,270,123,110,64,174
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Kanpur,Foggy & Misty,364,172,197,17,214
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Kanpur,Hail/Sleet,109,49,65,9,74
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Kanpur,Others,414,195,247,24,271
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Kanpur,Rainy,161,69,87,21,108
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Kanpur,Sunny/Clear,176,78,97,14,111
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Lucknow,Foggy & Misty,270,109,89,75,164
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Lucknow,Hail/Sleet,147,60,45,36,81
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Lucknow,Others,125,52,38,35,73
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Lucknow,Rainy,219,81,73,57,130
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Lucknow,Sunny/Clear,185,72,61,45,106
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Meerut,Foggy & Misty,134,58,9,94,103
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Meerut,Hail/Sleet,18,6,3,31,34
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Meerut,Others,348,185,7,196,203
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Meerut,Rainy,37,21,3,18,21
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Meerut,Sunny/Clear,188,79,5,121,126
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Varanasi,Foggy & Misty,40,12,14,13,27
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Varanasi,Hail/Sleet,8,7,5,1,6
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Varanasi,Others,97,57,32,26,58
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Varanasi,Rainy,47,18,18,14,32
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",Varanasi,Sunny/Clear,253,119,113,69,182
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Agra,Foggy & Misty,173,108,59,50,109
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Agra,Hail/Sleet,45,25,17,28,45
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Agra,Others,160,89,65,59,124
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Agra,Rainy,164,102,65,35,100
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Agra,Sunny/Clear,373,225,158,68,226
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Allahabad(Prayagraj),Foggy & Misty,222,97,50,92,142
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Allahabad(Prayagraj),Hail/Sleet,204,92,47,90,137
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Allahabad(Prayagraj),Others,243,114,54,102,156
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Allahabad(Prayagraj),Rainy,226,101,49,99,148
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Allahabad(Prayagraj),Sunny/Clear,270,131,53,115,168
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Ghaziabad,Foggy & Misty,208,91,87,49,136
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Ghaziabad,Hail/Sleet,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Ghaziabad,Others,139,77,61,28,89
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Ghaziabad,Rainy,153,78,76,43,119
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Ghaziabad,Sunny/Clear,324,149,128,79,207
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Kanpur,Foggy & Misty,383,173,237,25,262
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Kanpur,Hail/Sleet,117,59,73,15,88
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Kanpur,Others,490,205,276,62,338
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Kanpur,Rainy,171,78,97,23,120
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Kanpur,Sunny/Clear,193,83,129,17,146
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Lucknow,Foggy & Misty,211,67,63,52,115
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Lucknow,Hail/Sleet,129,37,57,42,99
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Lucknow,Others,109,35,55,38,93
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Lucknow,Rainy,181,63,54,59,113
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Lucknow,Sunny/Clear,160,59,55,46,101
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Meerut,Foggy & Misty,80,33,6,63,69
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Meerut,Hail/Sleet,1,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Meerut,Others,204,84,29,124,153
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Meerut,Rainy,10,5,1,8,9
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Meerut,Sunny/Clear,516,239,13,314,327
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Varanasi,Foggy & Misty,87,56,26,27,53
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Varanasi,Hail/Sleet,50,20,30,20,50
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Varanasi,Others,44,11,27,15,42
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Varanasi,Rainy,95,66,35,31,66
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",Varanasi,Sunny/Clear,147,83,46,53,99
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Asansol Durgapur,Foggy & Misty,75,44,76,3,79
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Asansol Durgapur,Hail/Sleet,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Asansol Durgapur,Others,164,126,97,27,124
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Asansol Durgapur,Rainy,5,3,2,0,2
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Asansol Durgapur,Sunny/Clear,202,140,109,38,147
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Kolkata,Foggy & Misty,147,8,65,45,110
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Kolkata,Hail/Sleet,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Kolkata,Others,105,13,41,32,73
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Kolkata,Rainy,200,12,94,68,162
+India,West Bengal,"Financial Year (Apr - Mar), 2019",Kolkata,Sunny/Clear,2048,234,1027,632,1659
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Asansol Durgapur,Foggy & Misty,48,36,33,6,39
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Asansol Durgapur,Hail/Sleet,1,0,1,0,1
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Asansol Durgapur,Others,190,150,85,25,110
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Asansol Durgapur,Rainy,2,1,1,0,1
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Asansol Durgapur,Sunny/Clear,187,128,83,12,95
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Kolkata,Foggy & Misty,50,2,19,14,33
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Kolkata,Hail/Sleet,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Kolkata,Others,26,0,11,13,24
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Kolkata,Rainy,71,9,38,27,65
+India,West Bengal,"Financial Year (Apr - Mar), 2020",Kolkata,Sunny/Clear,1536,190,776,503,1279
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Asansol Durgapur,Foggy & Misty,48,35,18,5,23
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Asansol Durgapur,Hail/Sleet,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Asansol Durgapur,Others,188,159,75,15,90
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Asansol Durgapur,Rainy,8,6,2,0,2
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Asansol Durgapur,Sunny/Clear,154,102,77,32,109
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Kolkata,Foggy & Misty,52,0,31,11,42
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Kolkata,Hail/Sleet,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Kolkata,Others,38,0,23,13,36
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Kolkata,Rainy,103,27,49,21,70
+India,West Bengal,"Financial Year (Apr - Mar), 2021",Kolkata,Sunny/Clear,1524,169,819,451,1270
